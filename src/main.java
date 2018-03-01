@@ -24,6 +24,7 @@ public class main {
 		System.out.println("xin chào");
 		System.out.println("xin chào git");
 		System.out.println("xin chào git");
+		System.out.println("xin chào git diff");
 
 	}
 
