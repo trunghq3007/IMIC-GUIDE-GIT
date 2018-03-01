@@ -23,7 +23,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("xin chào");
 		System.out.println("xin chào git");
-		System.out.println("xin chào git");
+		System.out.println("xin chào");
 		System.out.println("xin chào git dif");
 
 	}
