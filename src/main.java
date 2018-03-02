@@ -29,6 +29,10 @@ public static void main(String[] args) {
 		//https://github.com/trunghq3007/IMIC-GUIDE-GIT/invitations
 		System.out.println("hello++++++++++++++++++++++++");
 		System.out.println("hello++++++++++++++++++++++++");
+		
+		
+		System.out.println("hello++++++++++++++++++++++++ git diff");
+		System.out.println("git commit -a -m ");
 
 	}
 
