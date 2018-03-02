@@ -19,7 +19,7 @@ public class main {
 	 * @exception:
 	 * @param args
 	 */
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("xin chào");
 		System.out.println("xin chào git");
@@ -27,6 +27,8 @@ public class main {
 		System.out.println("xin chào git dif");
 		System.out.println("git commit");
 		//https://github.com/trunghq3007/IMIC-GUIDE-GIT/invitations
+		System.out.println("hello++++++++++++++++++++++++");
+		System.out.println("hello++++++++++++++++++++++++");
 
 	}
 
